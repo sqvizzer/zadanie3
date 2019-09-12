@@ -1,0 +1,16 @@
+<html>
+  <header><title>Задание 3</title></header>
+    <body>
+
+<table>
+<thead>
+<tr>
+
+       <th>Заголовок</th> 
+       <th>Заголовок</th> 
+       <th>Заголовок</th> 
+       <th>Заголовок</th> 
+
+
+</tr>
+</thead>
